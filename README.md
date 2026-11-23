@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="AI-Based Medicine Counting System – IIT Roorkee TMI Project" width="100%"/>
+<img src="header.svg" alt="AI-Based Medicine Counting System – IIT Roorkee TMI Project" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B09B&center=true&vCenter=true&width=720&lines=Indian+Institute+of+Technology+Roorkee;TMI+Project+%7C+Classical+Computer+Vision;No+YOLO.+No+Deep+Learning.+Just+OpenCV." alt="Typing SVG" />
